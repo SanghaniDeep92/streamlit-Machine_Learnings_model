@@ -14,7 +14,7 @@ if selection == 'Home 🏠':
     ### Welcome to the ML Model Explorer!! 🚀
     ## This app allows you to:
     - Upload your dataset 📈
-    - Select features and target variable 🎯
+    - Select features and target variable 🎯 
     - Choose and train different ML Models 🧑‍💻
     - Evaluate and visualize model performance 📊
     """)
